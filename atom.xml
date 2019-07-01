@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lethedryad.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-07-01T10:19:38.082Z</updated>
+    <title>泉水Hippocrene</title>
+    <updated>2019-07-01T10:20:08.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lethedryad.github.io/"/>
     <link rel="self" href="https://lethedryad.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>LetheDryad自留地：关于城市，书本，思想和梦。</subtitle>
     <logo>https://lethedryad.github.io//images/avatar.png</logo>
     <icon>https://lethedryad.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 泉水Hippocrene</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lethedryad.github.io//post/hello-gridea</id>
