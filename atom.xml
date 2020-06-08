@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lethedryad.github.io/</id>
     <title>Hippocrene</title>
-    <updated>2020-06-08T15:01:53.217Z</updated>
+    <updated>2020-06-08T15:39:06.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lethedryad.github.io/"/>
-    <link rel="self" href="https://lethedryad.github.io//atom.xml"/>
+    <link rel="self" href="https://lethedryad.github.io/atom.xml"/>
     <subtitle>LetheDryad自留地：
 关于语言，书本，思想和梦。</subtitle>
-    <logo>https://lethedryad.github.io//images/avatar.png</logo>
-    <icon>https://lethedryad.github.io//favicon.ico</icon>
+    <logo>https://lethedryad.github.io/images/avatar.png</logo>
+    <icon>https://lethedryad.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hippocrene</rights>
     <entry>
         <title type="html"><![CDATA[鸽手怎么会写游记呢 | 记西山夜行]]></title>
-        <id>https://lethedryad.github.io//post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing</id>
-        <link href="https://lethedryad.github.io//post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing">
+        <id>https://lethedryad.github.io/post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing/</id>
+        <link href="https://lethedryad.github.io/post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing/">
         </link>
         <updated>2019-09-24T10:36:59.000Z</updated>
         <content type="html"><![CDATA[<p>数起来，西山一带，从香山到翠微山，此前是去过三趟，第一趟是莽莽撞撞看了路线就去了，从香山走到八大处，一个人走得轻快，路上偶尔也碰到同行者，这大约是去年的十月。</p>
@@ -41,8 +41,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[解码战争影像——关于《关于他人的痛苦》]]></title>
-        <id>https://lethedryad.github.io//post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater</id>
-        <link href="https://lethedryad.github.io//post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater">
+        <id>https://lethedryad.github.io/post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater/</id>
+        <link href="https://lethedryad.github.io/post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater/">
         </link>
         <updated>2019-09-17T09:09:20.000Z</updated>
         <content type="html"><![CDATA[<h2 id="编码和解码">编码和解码</h2>
