@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lethedryad.github.io/</id>
     <title>Hippocrene</title>
-    <updated>2019-09-25T13:22:27.981Z</updated>
+    <updated>2020-06-08T15:01:53.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lethedryad.github.io/"/>
     <link rel="self" href="https://lethedryad.github.io//atom.xml"/>
@@ -10,7 +10,7 @@
 关于语言，书本，思想和梦。</subtitle>
     <logo>https://lethedryad.github.io//images/avatar.png</logo>
     <icon>https://lethedryad.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Hippocrene</rights>
+    <rights>All rights reserved 2020, Hippocrene</rights>
     <entry>
         <title type="html"><![CDATA[鸽手怎么会写游记呢 | 记西山夜行]]></title>
         <id>https://lethedryad.github.io//post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing</id>
