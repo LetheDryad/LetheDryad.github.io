@@ -10,15 +10,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1614604659904">
+<link rel="shortcut icon" href="https://lethedryad.github.io//favicon.ico?v=1614660519667">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
+<link rel="stylesheet" href="https://lethedryad.github.io//styles/main.css">
 
 
   
-
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
   
-    <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css" />
+
   
 
 
@@ -36,8 +36,8 @@
       <div class="sidebar" :class="{ 'full-height': menuVisible }">
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
-      <a class="site-title-container" href="http://localhost:4000">
-        <img src="http://localhost:4000/images/avatar.png?v=1614604659904" class="site-logo">
+      <a class="site-title-container" href="https://lethedryad.github.io/">
+        <img src="https://lethedryad.github.io//images/avatar.png?v=1614660519667" class="site-logo">
         <h1 class="site-title">Hippocrene</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -91,12 +91,12 @@
 关于语言，书本，思想和梦。
     </div>
     <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="http://localhost:4000/atom.xml" target="_blank">RSS</a>
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://lethedryad.github.io//atom.xml" target="_blank">RSS</a>
     </div>
   </div>
 </div>
 
-
+    
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
           <div class="post-detail">
@@ -220,19 +220,19 @@
             
               <div class="tag-container">
                 
-                  <a href="http://localhost:4000/tag/-BPs6Tn8i/" class="tag">
+                  <a href="https://lethedryad.github.io/tag/-BPs6Tn8i/" class="tag">
                     翻译
                   </a>
                 
-                  <a href="http://localhost:4000/tag/-cTfXg3Zf/" class="tag">
+                  <a href="https://lethedryad.github.io/tag/-cTfXg3Zf/" class="tag">
                     同人
                   </a>
                 
-                  <a href="http://localhost:4000/tag/Se8tRZ4fmj/" class="tag">
+                  <a href="https://lethedryad.github.io/tag/Se8tRZ4fmj/" class="tag">
                     lofter备份
                   </a>
                 
-                  <a href="http://localhost:4000/tag/Yxd7_tlqQQ/" class="tag">
+                  <a href="https://lethedryad.github.io/tag/Yxd7_tlqQQ/" class="tag">
                     rosawatts
                   </a>
                 
@@ -241,28 +241,28 @@
             
               <div class="next-post">
                 <div class="next">下一篇</div>
-                <a href="http://localhost:4000/post/205a952f_1c681d5c6/">
+                <a href="https://lethedryad.github.io/post/205a952f_1c681d5c6/">
                   <h3 class="post-title">
                     授翻 | Second Snow 04 家
                   </h3>
                 </a>
               </div>
             
-
+    
             
               
-
+                <div id="gitalk-container" data-aos="fade-in"></div>
               
-                <div id="disqus_thread" data-aos="fade-in"></div>
+    
               
             
-
+    
           </div>
-
+    
         </div>
       </div>
     </div>
-
+    
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
 <script type="application/javascript">
@@ -283,25 +283,49 @@ var app = new Vue({
 
 
   
-
-  
-    <script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
     <script>
 
-    var options = {
-      shortname: '',
-      apikey: '',
-    }
-    if ('') {
-      options.api = ''
-    }
-    var dsqjs = new DisqusJS(options)
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
 
     </script>
   
 
+  
 
 
 
+
+    
+    <!--载入js，在</body>之前插入即可-->
+        <!--Leancloud 操作库:-->
+        <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+        <!--Valine 的核心代码库-->
+        <script src="/media/scripts/Valine.min.js"></script>
+    <div class="comment"></div>
+    <script>
+        new Valine({
+            // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+            av: AV, 
+            el: '.comment',
+    	      lang: 'zh-cn',//设置评论语言
+            emoticon_url: 'https://cloud.panjunwen.com/alu',
+      emoticon_list: ["狂汗.png","不说话.png","汗.png","坐等.png","献花.png","不高兴.png","中刀.png","害羞.png","皱眉.png","小眼睛.png","暗地观察.png"],
+      app_id: 'g4tMYjAB7We8wkhF390vj4fK-gzGzoHsz',
+      app_key: 'nGcvr1JSDoBcW6UOb0qJ0h8K',
+      placeholder: '评论留言'
+        });
+    </script>    
+    
   </body>
 </html>

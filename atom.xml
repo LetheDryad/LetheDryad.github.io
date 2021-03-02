@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://lethedryad.github.io/</id>
     <title>Hippocrene</title>
-    <updated>2021-03-01T13:17:49.498Z</updated>
+    <updated>2021-03-02T04:49:43.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://lethedryad.github.io/"/>
+    <link rel="self" href="https://lethedryad.github.io/atom.xml"/>
     <subtitle>LetheDryad自留地：
 关于语言，书本，思想和梦。</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://lethedryad.github.io/images/avatar.png</logo>
+    <icon>https://lethedryad.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Hippocrene</rights>
     <entry>
         <title type="html"><![CDATA[个人周刊 | 第 2 期（20210208-20210214）]]></title>
-        <id>http://localhost:4000/post/ge-ren-zhou-kan-or-di-er-qi-20210208-20210214/</id>
-        <link href="http://localhost:4000/post/ge-ren-zhou-kan-or-di-er-qi-20210208-20210214/">
+        <id>https://lethedryad.github.io/post/ge-ren-zhou-kan-or-di-er-qi-20210208-20210214/</id>
+        <link href="https://lethedryad.github.io/post/ge-ren-zhou-kan-or-di-er-qi-20210208-20210214/">
         </link>
         <updated>2021-02-15T16:27:55.000Z</updated>
         <summary type="html"><![CDATA[<p>本文同步发布于 <a href="https://www.yuque.com/u179765/weekly/rvsffn">语雀</a></p>
@@ -93,8 +93,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[个人周刊 | 第1期（20210201-0207）]]></title>
-        <id>http://localhost:4000/post/ge-ren-zhou-kan-or-di-1-qi-20210201-0207/</id>
-        <link href="http://localhost:4000/post/ge-ren-zhou-kan-or-di-1-qi-20210201-0207/">
+        <id>https://lethedryad.github.io/post/ge-ren-zhou-kan-or-di-1-qi-20210201-0207/</id>
+        <link href="https://lethedryad.github.io/post/ge-ren-zhou-kan-or-di-1-qi-20210201-0207/">
         </link>
         <updated>2021-02-08T13:43:56.000Z</updated>
         <summary type="html"><![CDATA[<p>本文同步发布于 <a href="https://www.yuque.com/u179765/weekly/pxxuz0"> 语雀 </a></p>
@@ -190,8 +190,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[笔记、清单与大纲]]></title>
-        <id>http://localhost:4000/post/bi-ji-qing-dan-yu-da-gang/</id>
-        <link href="http://localhost:4000/post/bi-ji-qing-dan-yu-da-gang/">
+        <id>https://lethedryad.github.io/post/bi-ji-qing-dan-yu-da-gang/</id>
+        <link href="https://lethedryad.github.io/post/bi-ji-qing-dan-yu-da-gang/">
         </link>
         <updated>2020-09-05T17:29:35.000Z</updated>
         <summary type="html"><![CDATA[<p>——《高效信息管理术2.0》学习札记</p>
@@ -223,8 +223,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[招魂]]></title>
-        <id>http://localhost:4000/post/zhao-hun/</id>
-        <link href="http://localhost:4000/post/zhao-hun/">
+        <id>https://lethedryad.github.io/post/zhao-hun/</id>
+        <link href="https://lethedryad.github.io/post/zhao-hun/">
         </link>
         <updated>2020-09-04T11:14:25.000Z</updated>
         <summary type="html"><![CDATA[<p><em>2018年飞氘科幻文学写作课的大作业，如今回头看，才终于明白了飞氘当年为何批评结构上的做作。<br>
@@ -389,8 +389,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Rosawatts | 儿童节 | 布朗尼]]></title>
-        <id>http://localhost:4000/post/205a952f_1c987344c/</id>
-        <link href="http://localhost:4000/post/205a952f_1c987344c/">
+        <id>https://lethedryad.github.io/post/205a952f_1c987344c/</id>
+        <link href="https://lethedryad.github.io/post/205a952f_1c987344c/">
         </link>
         <updated>2020-06-01T05:48:34.000Z</updated>
         <content type="html"><![CDATA[<p>*&nbsp;我又来营业了。我是真的不会写。</p> 
@@ -467,8 +467,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Rosawatts | 愚人节 | 谎言无尽]]></title>
-        <id>http://localhost:4000/post/205a952f_1c8a4d972/</id>
-        <link href="http://localhost:4000/post/205a952f_1c8a4d972/">
+        <id>https://lethedryad.github.io/post/205a952f_1c8a4d972/</id>
+        <link href="https://lethedryad.github.io/post/205a952f_1c8a4d972/">
         </link>
         <updated>2020-04-01T07:49:14.000Z</updated>
         <content type="html"><![CDATA[<p>想写rosawatts从春节拖到元宵拖到情人节拖到白情最后居然挑了愚人节来写</p> 
@@ -628,8 +628,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[鸽手怎么会写游记呢 | 记西山夜行]]></title>
-        <id>http://localhost:4000/post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing/</id>
-        <link href="http://localhost:4000/post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing/">
+        <id>https://lethedryad.github.io/post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing/</id>
+        <link href="https://lethedryad.github.io/post/mou-ren-ju-ran-xie-you-ji-liao-or-ji-xi-shan-ye-xing/">
         </link>
         <updated>2019-09-24T10:36:59.000Z</updated>
         <content type="html"><![CDATA[<p>数起来，西山一带，从香山到翠微山，此前是去过三趟，第一趟是莽莽撞撞看了路线就去了，从香山走到八大处，一个人走得轻快，路上偶尔也碰到同行者，这大约是去年的十月。</p>
@@ -656,8 +656,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[解码战争影像——关于《关于他人的痛苦》]]></title>
-        <id>http://localhost:4000/post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater/</id>
-        <link href="http://localhost:4000/post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater/">
+        <id>https://lethedryad.github.io/post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater/</id>
+        <link href="https://lethedryad.github.io/post/jie-ma-zhan-zheng-ying-xiang-guan-yu-lesslessguan-yu-ta-ren-de-tong-ku-greatergreater/">
         </link>
         <updated>2019-09-17T09:09:20.000Z</updated>
         <content type="html"><![CDATA[<h2 id="编码和解码">编码和解码</h2>
@@ -702,8 +702,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[授翻 | Second Snow 05 尾声]]></title>
-        <id>http://localhost:4000/post/205a952f_1c682997e/</id>
-        <link href="http://localhost:4000/post/205a952f_1c682997e/">
+        <id>https://lethedryad.github.io/post/205a952f_1c682997e/</id>
+        <link href="https://lethedryad.github.io/post/205a952f_1c682997e/">
         </link>
         <updated>2019-08-26T08:05:52.000Z</updated>
         <content type="html"><![CDATA[<p>Second Snow Chapter 5 尾声</p> 
@@ -821,8 +821,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[授翻 | Second Snow 04 家]]></title>
-        <id>http://localhost:4000/post/205a952f_1c681d5c6/</id>
-        <link href="http://localhost:4000/post/205a952f_1c681d5c6/">
+        <id>https://lethedryad.github.io/post/205a952f_1c681d5c6/</id>
+        <link href="https://lethedryad.github.io/post/205a952f_1c681d5c6/">
         </link>
         <updated>2019-08-26T00:52:10.000Z</updated>
         <content type="html"><![CDATA[<p>Second Snow Chapter 4 家</p> 
